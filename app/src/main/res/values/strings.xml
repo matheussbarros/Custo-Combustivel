@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fuel Cost</string>
+    <string name="preco_gasolina">Price of gasoline liter</string>
+    <string name="preco_etanol">Price of the liter of ethanol</string>
+    <string name="label_result">It is better to use</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="etanol">Ethanol</string>
+    <string name="valor">1,00</string>
+    <string name="combustivel_desc">Image of the most appropriate fuel</string>
+</resources>

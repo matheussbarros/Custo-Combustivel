@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padStartTextView">10dp</dimen>
+    <dimen name="marginSeekBar">15dp</dimen>
+    <dimen name="padStartTextInputLayout">5dp</dimen>
+    <dimen name="app_textSize">16sp</dimen>
+    <dimen name="preco_textSize">18sp</dimen>
+</resources>

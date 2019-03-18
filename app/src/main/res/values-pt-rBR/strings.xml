@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custo Combustível</string>
+    <string name="preco_gasolina">Preço do litro de gasolina</string>
+    <string name="preco_etanol">Preço do litro de etanol</string>
+    <string name="label_result">É Melhor usar</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="etanol">Etanol</string>
+    <string name="valor">1,00</string>
+    <string name="combustivel_desc">Imagem do combustivel mais apropriado</string>
+</resources>

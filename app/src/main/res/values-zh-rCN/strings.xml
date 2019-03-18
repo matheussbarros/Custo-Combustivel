@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">燃料成本</string>
+    <string name="preco_gasolina">汽油的价格</string>
+    <string name="preco_etanol">一升乙醇的价格</string>
+    <string name="label_result">最好使用</string>
+    <string name="gasolina">汽油</string>
+    <string name="etanol">乙醇</string>
+    <string name="valor">1,00</string>
+    <string name="combustivel_desc">最合适的燃料图像</string>
+</resources>
