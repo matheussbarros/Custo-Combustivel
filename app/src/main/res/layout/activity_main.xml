@@ -32,10 +32,10 @@
 
     <SeekBar
         android:id="@+id/gasolinaSeekBar"
-        android:layout_width="wrap_content"
-        android:layout_height="31dp"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
         android:layout_columnSpan="2"
-        android:layout_gravity="fill_horizontal"
+        android:layout_gravity="center|start|center_horizontal"
         android:layout_marginTop="@dimen/marginSeekBar"
         android:layout_marginBottom="@dimen/marginSeekBar"
         android:max="100"
@@ -63,10 +63,10 @@
 
     <SeekBar
         android:id="@+id/etanolSeekBar"
-        android:layout_width="wrap_content"
-        android:layout_height="31dp"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
         android:layout_columnSpan="2"
-        android:layout_gravity="fill_horizontal"
+        android:layout_gravity="center|start|center_horizontal"
         android:layout_marginTop="@dimen/marginSeekBar"
         android:layout_marginBottom="@dimen/marginSeekBar"
         android:max="100"
@@ -88,7 +88,7 @@
             android:focusable="false"
             android:hint="@string/label_result"
 
-            android:textSize="15sp"/>
+            android:textSize="15sp" />
     </android.support.design.widget.TextInputLayout>
 
     <ImageView
