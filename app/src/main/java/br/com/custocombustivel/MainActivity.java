@@ -58,7 +58,10 @@ public class MainActivity extends AppCompatActivity {
 
             calculo = precoEtanol / precogasolina;
 
-            if(calculo >= 0.7){
+            if(precoEtanol == 0 && precogasolina == 0 ){
+                resultInputEditText.setText("...");
+                resultImageView.setImageResource(R.drawable.nulo);
+            }else if(calculo >= 0.7){
                 resultInputEditText.setText(R.string.gasolina);
                 resultImageView.setImageResource(R.drawable.gasolina);
             }else{
